@@ -7,7 +7,7 @@ Download required libraries from here
 
 Steps to run graphic code in CodeBlocks
 ## 1. Install Code::Blocks
-Make sure you have installed Code::Blocks IDEon your machine. If you don't have this IDE or have any issue with compiler download and install it from here.  http://sourceforge.net/projects/codeblocks/files/Binaries/16.01/Windows/codeblocks-16.01mingw-setup.exe
+Make sure you have installed Code::Blocks IDE on your machine. If you don't have this IDE or have any issue with compiler download and install it from here.  http://sourceforge.net/projects/codeblocks/files/Binaries/16.01/Windows/codeblocks-16.01mingw-setup.exe
 
 ## 2. Download the required header files
 We need few files to be included in the lib folder of Code::Blocks.
