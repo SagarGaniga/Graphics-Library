@@ -28,14 +28,14 @@ Path: C:\Program Files (x86)\CodeBlocks\MinGW\lib
    * In the Code::Blocks application go to,
 Settings > Compiler
 
-* In the Global Compiler setting, click on the Linker Settings
+   * In the Global Compiler setting, click on the Linker Settings
 
-* In Link Libraries, Add and browse to C:\Program Files (x86)\CodeBlocks\MinGW\lib\ and select libbgi.a.
+   * In Link Libraries, Add and browse to C:\Program Files (x86)\CodeBlocks\MinGW\lib\ and select libbgi.a.
 
-* Paste this in the Other Linker Option tab of Linker Settings (i.e. on the right-hand side)
+   * Paste this in the Other Linker Option tab of Linker Settings (i.e. on the right-hand side)
 -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
 
-* Save the setting and restart the application
+   * Save the setting and restart the application
 
 To test the setting copy paste any computer graphics code from 
 https://github.com/SagarGaniga/computer-graphics
